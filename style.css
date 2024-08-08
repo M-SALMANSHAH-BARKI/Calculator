@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: gainsboro;
+}
+h1{
+    color: white;
+    font-family:Verdana, sans-serif;
+}
+.button {
+    padding: 5px 5px;
+    font-weight: bold;
+    margin: 5px 5px;
+    border: 5px solid #ffffff;
+    background-color: #ffffff;
+    color: gray;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 81px;
+    font-size: 26px;
+    box-shadow: 4px 8px 4px cadetblue;
+}
+.row{
+    margin: 6px 0px;
+}
+.row input{
+    padding: 15px 30px;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 4px 5px;
+    border: 5px solid #ffffff;
+    /* background-color: #0067ff;
+    color: white; */
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 4px 8px 4px cadetblue;
+}
+/* .card {
+    padding: 12px 12px;
+    margin: 12px 12px;
+    /* border: 2px solid blue; */
+    /* background-color: lavenderblush; */
+    /* box-shadow: 2px 6px deeppink; */
+    /* box-shadow: 1px 3px 6px greenyellow;  the third value means that how i should be blur*/
+    /* box-shadow: -1px -3px 6px greenyellow; blur at the top*/
+    /* box-shadow: 1px 3px 3px  rgba(0, 0, 0, 0.3); */
+    /* box-shadow: inset 10px 85px crimson;      */
+    /* box-shadow: 4px 8px cadetblue , 4px 8px rgb(48, 67, 236) ; cadetblue is best for white box as a shadow*/
+    /* box-shadow: 4px 8px 4px cadetblue; */
+/* } */
+
+/* .card h1 { */
+    /* text-shadow: 3px 3px 10px #87ff03; */
+/* }  */
